@@ -6,7 +6,7 @@ BOT WHATSAPP E TELEGRAM COM API MP
 
 # 1°
 ```
-wget https://raw.githubusercontent.com/rafsnet4g/RafsBotPlus/main/RafsBotPlus.zip
+wget https://github.com/detonaweb/DetBotPlus/blob/main/DetBotPlus.zip
 ```
 
 # 2°

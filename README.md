@@ -1,4 +1,4 @@
-# RafsBotPlus
+# DetBotPlus
 
 BOT WHATSAPP E TELEGRAM COM API MP
 

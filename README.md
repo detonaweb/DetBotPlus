@@ -11,7 +11,7 @@ wget https://github.com/detonaweb/DetBotPlus/raw/main/DetBotPlus.zip
 
 # 2°
 ```
-unzip RafsBotPlus.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh
+unzip DetBotPlus.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh
 ```
 
 # 3°
